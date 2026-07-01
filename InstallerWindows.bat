@@ -8,9 +8,6 @@ winget install --id Git.Git -e --accept-source-agreements --accept-package-agree
 
 py -0
 
-py -3.11 -m pip install --upgrade pip
-py -3.11 -m pip install pygame
-
 if exist Bleach-Rebirth-of-Souls-Community-Patch (
 	rmdir /s /q Bleach-Rebirth-of-Souls-Community-Patch
 )
