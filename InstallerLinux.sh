@@ -7,8 +7,8 @@ sudo apt-get install -y python3.11 python3-pip git
 
 pip3 install pygame
 
-if [ -d "Bleach-Rebirth-of-Souls-Community-Patch" ]; then
-    rm -rf Bleach-Rebirth-of-Souls-Community-Patch
+if [ -d "BROS-Patch" ]; then
+    rm -rf BROS-Patch
 fi
 
-git clone https://github.com/Nilsix/Bleach-Rebirth-of-Souls-Community-Patch.git
+git clone https://github.com/Nilsix/BROS-Patch.git
