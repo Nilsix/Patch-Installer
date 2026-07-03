@@ -8,9 +8,9 @@ winget install --id Git.Git -e --accept-source-agreements --accept-package-agree
 
 py -0
 
-if exist Bleach-Rebirth-of-Souls-Community-Patch (
-	rmdir /s /q Bleach-Rebirth-of-Souls-Community-Patch
+if exist BROS-Patch (
+	rmdir /s /q BROS-Patch
 )
-git clone https://github.com/Nilsix/Bleach-Rebirth-of-Souls-Community-Patch.git
+git clone https://github.com/Nilsix/BROS-Patch.git
 
 
