@@ -35,7 +35,7 @@ changes will continue to be made based on the community's feedback
 Tournaments will be region locked (only EU, or only NA) to avoid connection issues
 Tournaments will be happening bi-weekly, with our first one happening this Saturday, with a 30€ prize pool : https://challonge.com/fr/yg9k8alb
 
-Team tournaments will also be happening
+Team tournaments will also be happenin
 
 In the near future we will have one tournament with an huge prize pool for both EU and NA
 
