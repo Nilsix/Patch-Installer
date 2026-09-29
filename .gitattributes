@@ -1,0 +1,8 @@
+# Batch files must reach Windows with CRLF line endings: cmd.exe can miss a
+# goto/call label in a file that has LF only. They are stored as CRLF and
+# never converted, so a clone, the ZIP download and the raw file all match.
+*.bat -text
+
+# Shell scripts must reach Linux and macOS with LF: sh chokes on "\r".
+*.sh text eol=lf
+*.py text eol=lf

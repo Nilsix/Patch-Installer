@@ -1,3 +1,25 @@
+## How to install
+
+1. Download this repository: green **Code** button, then **Download ZIP**. Extract it
+   somewhere outside OneDrive, for example `C:\Games`.
+2. Run the installer for your system:
+   - **Windows**: double-click `InstallerWindows.bat`.
+   - **Linux, Steam Deck, Bazzite**: open a terminal in the extracted folder and run
+     `sh InstallerLinux.sh`.
+3. Start the launcher with the **ReBalance of Souls** shortcut the installer creates
+   (desktop on Windows, applications menu on Linux).
+
+Before your first launch, make a backup copy of your `BLEACH Rebirth of Souls` game
+folder: the launcher's Repair button restores from it.
+
+The launcher updates itself every time it starts. Run the installer again only to
+repair an install: it updates the `BROS-Patch` folder in place and keeps your settings.
+
+**Linux:** at the end, the installer prints one line to paste into the game's Steam
+launch options. Proton only loads the patch with it.
+
+## About the patch
+
 Since Tamsoft didn't want to give us a new patch, we made one ourselves with a launcher.
 
 NEW PATCH :
